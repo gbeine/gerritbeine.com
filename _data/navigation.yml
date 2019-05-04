@@ -1,0 +1,14 @@
+# main links
+main:
+  - title: "Archiv"
+    url: /posts/
+  - title: "Tags"
+    url: /tags/
+  - title: "Projects"
+    url: /projects/
+  - title: "Published"
+    url: /published/
+  - title: "Talks"
+    url: /talks/
+  - title: "Imprint"
+    url: /imprint/
