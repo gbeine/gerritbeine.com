@@ -7,6 +7,21 @@ author_profile: true
 
 ## Gesprochenes - Konferenzen und Vorträge
 
+### 2019
+
+* 12/2019: Mastering Cargo Cult – Dunning, Kruger und die Agile Bias Curve, IT-Tage, Frankfurt
+* 12/2019: Conway’s Law & Soziologie in der Software-Architektur, IT-Tage, Frankfurt
+* 11/2019: Zu viel des Guten - Agiles Coaches als Mobbing-Treiber, Tools 4 Agile Teams, Wiesbaden
+* 11/2019: Zu viel des Guten - Agiles Coaches als Mobbing-Treiber, XP Days, Stuttgart
+* 11/2019: Mastering Cargo Cult - Dunning, Kruger und die Agile Bias Curve, Manage Agile, Berlin
+* 11/2019: Conway’s Law & Soziologie in der Software-Architektur, W-JAX, München
+* 11/2019: Mastering Cargo Cult – Dunning, Kruger und die Agile Bias Curve, W-JAX, München
+* 10/2019: Mastering Cargo Cult - The Seven Bias Levels of Agile Coaching, Scrum Gathering, Wien
+* 10/2019: Conway’s Law & Soziologie in der Software-Architektur, The Architecture Gathering, München
+* 10/2019: Beyond User Stories - Backlogs priorisieren, wenn's anspruchsvoll wird, Modern RE, Berlin
+* 7/2019: Zu viel des Guten - Agiles Coaches als Mobbing-Treiber, Agile World, München
+* 3/2019: Conway’s Law & Soziologie in der Software-Architektur, Software Architecture Meetup Nürnberg, Nürnberg
+
 ### 2018
 * 11/2018: Mastering Cargo Cult, Tools 4 Agile Teams, Wiesbaden
 * 11/2018: Mastering Cargo Cult, XP Days, Hamburg
